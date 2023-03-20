@@ -3,7 +3,7 @@ import tkinter.messagebox
 from pygame import mixer
 
 root = Tk()
-v = 1
+
 # Create the Menu Bar
 menu_bar = Menu(root)
 root.config(menu=menu_bar)
